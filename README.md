@@ -61,7 +61,7 @@ This makes it easy to discuss arrangements and make bookings.
 Once the walk has been completed you can rate your walker and
 book again all through the chat.
 </p>
-<\div>
+</div>
 </section>
 </body>
 </html>
