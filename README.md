@@ -89,6 +89,42 @@ body {
   padding: 15px;
   border-radius: 0 0 20px 20px;
 }
+.msg {
+  border-radius: 15px;
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  max-width: 220px;
+  line-height: 1.4;
+  font-size: 13px;
+}
+
+.msg.purple {
+  background: #f3e8ff;
+}
+
+.msg.white {
+  background: white;
+  border: 1px solid #eee;
+  margin-left: auto;
+}
+
+.msg.gray {
+  background: #f3f3f3;
+  margin-left: auto;
+}
+
+.img-row {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.img-row img {
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  object-fit: cover;
+}
 </style>
 </head>
 <body>
