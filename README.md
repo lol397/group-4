@@ -7,8 +7,7 @@ Abigiya Emana
 Fikir Ashenafi
 Tilat Abera
 Efrata
-kebron
-Tihitina
+Tihitina 
 Dawit Meles
 <!DOCTYPE html>
 <html lang="en">
