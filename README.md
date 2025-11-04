@@ -15,7 +15,33 @@ Dawit Meles
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Simple Booking</title>
-  <link rel="stylesheet" href="style.css" />
+  <style>* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background: white;
+  color: #333;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 2rem;
+}
+
+@media (min-width: 992px) {
+  .container {
+    flex-direction: row;
+    justify-content: space-around;
+  }
+}<\style>
 </head>
 <body>
   <section class="container">
