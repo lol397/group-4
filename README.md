@@ -6,9 +6,10 @@ Hana Tekalegn
 Abigiya Emana
 Fikir Ashenafi
 Tilat Abera
-Efrata
-Tihitina 
+Efrata solomon
+Tihitina Getahun
 Dawit Meles
+Bathseba Taklit
 <!DOCTYPE html>
 <html lang="en">
 <head>
