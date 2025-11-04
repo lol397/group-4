@@ -42,3 +42,19 @@ Dawit Meles
 <div class="msg white">Here are a few pictures. She's a happy girl</div>
 <div class="msg gray">Can you make it?</div>
 <div class="msg purple">She looks so happy! The time we discussed works. How long shall I take her out for?</div>
+<div class="options">
+<div class="option"><span>30 minute walk</span><strong>$29</strong></div>
+<div class="option"><span>1 hour walk</span><strong>$49</strong></div>
+</div>
+<div class="input">
+<input type="text" placeholder="Type a message..." />
+<button>›</button>
+</div>
+</div>
+</div>
+</div>
+<div class="right">
+<h1>Simple booking</h1>
+<p>
+Stay in touch with our dog walkers through the chat interface.
+This makes it easy to discuss arrangements and make bookings.
