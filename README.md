@@ -125,6 +125,39 @@ body {
   border-radius: 10px;
   object-fit: cover;
 }
+.options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 15px 0;
+}
+
+.option {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: linear-gradient(135deg, #a855f7, #ec4899);
+  color: white;
+  border-radius: 25px;
+  padding: 10px 20px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.input {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.input input {
+  flex: 1;
+  padding: 8px 12px;
+  border-radius: 25px;
+  border: 1px solid #ccc;
+  outline: none;
+  font-size: 13px;
+}
 </style>
 </head>
 <body>
