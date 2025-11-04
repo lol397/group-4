@@ -158,6 +158,27 @@ body {
   border: 1px solid #ccc;
   outline: none;
   font-size: 13px;
+}.input button {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: none;
+  background: #6d28d9;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+/* RIGHT SIDE */
+.right {
+  max-width: 500px;
+  text-align: center;
+}
+
+@media (min-width: 992px) {
+  .right {
+    text-align: left;
+  }
 }
 </style>
 </head>
