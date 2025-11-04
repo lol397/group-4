@@ -5,7 +5,7 @@ Melunay
 Hana Tekalegn
 Abigiya Emana
 Fikir Ashenafi
-Tilat Abera
+Tsilat Abera
 Efrata solomon
 Tihitina Getahun
 Dawit Meles
